@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/tiago/programacao/chuva/natura-rede/sites/all/modules/features/natura_coupons/templates'
+let g:netrw_dirhist_2='/home/tiago/programacao/chuva/galob-ashnazg/modules/ashnazg/ashnazg_profile'
+let g:netrw_dirhist_3='/home/tiago/asd'
